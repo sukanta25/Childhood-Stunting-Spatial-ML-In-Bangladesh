@@ -1,6 +1,6 @@
 # Childhood-Stunting-Spatial-ML-In-Bangladesh
 
-# Childhood-Stunting-Spatial-ML-In-Bangladesh
+
 
 Source code for the M.Sc. thesis: **Childhood Stunting in Bangladesh using Spatial Machine Learning and Explainable AI**.
 
